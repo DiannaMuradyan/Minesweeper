@@ -1,6 +1,7 @@
 # Minesweeper Game in C++
 
 Description
+
 This is a terminal-based implementation of the classic Minesweeper game written in C++. The game simulates a grid of cells where some cells contain mines, and others indicate the number of neighboring mines. The objective is to reveal all non-mine cells without triggering a mine. Players can move around the grid using the WASD keys and select cells with the Enter key. The game ends when the player either triggers a mine (loses) or reveals all non-mine cells (wins).
 Features
 1. Gameplay Mechanics:
